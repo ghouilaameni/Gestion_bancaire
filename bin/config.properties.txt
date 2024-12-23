@@ -1,0 +1,2 @@
+#admin password configuration
+admin.hashed.password=$2a$10$EIXvlTzK.z/xyz.abcdef12345
